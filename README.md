@@ -9,19 +9,19 @@ It is not a finished course , but a **hands-on learning journey** built with pra
 
 ### 🔹 FUNDAMENTOS_PYTHON
 Python fundamentals, including:
-- Variables and data types, Operators, Control structures, Error handling, Functions.
+- Variables and data types | Operators | Control structures | Error handling | Functions.
 
 ### 🔹 INTERACCIONES
 Practice focused on logic and iteration:
-- Lists, Dictionaries, Sets, Practical exercises
+- Lists | Dictionaries | Sets | Practical exercises.
 
 ### 🔹 METODOS
 Common Python methods applied to:
-- Strings, Lists, Dictionaries.
+- Strings | Lists | Dictionaries.
 
 ### 🔹 POO (Object-Oriented Programming)
 Core OOP concepts such as:
-- Classes and objects, Abstraction, Abstract classes, Decorators.
+- Classes and objects | Abstraction | Abstract classes | Decorators.
 
 ---
 
