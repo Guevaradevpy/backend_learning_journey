@@ -55,7 +55,6 @@ Core OOP concepts such as:
 ---
 
 ## 📈 Project Status
-🔧 ## 📊 Project Status
 Active development — structured practice and regular improvements.
 ---
 
