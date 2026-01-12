@@ -48,9 +48,11 @@ Core OOP concepts such as:
 ---
 
 ## 🛠️ Technologies Used
-- Python 🐍
-- Git & GitHub
-- Visual Studio Code
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" style="margin: 10px;" />
+  </p>
 
 ---
 
