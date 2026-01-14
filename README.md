@@ -1,7 +1,13 @@
 # Backend Learning Journey 🚀
 
-This repository documents my real learning process in **backend development using Python**.  
-It is not a finished course , but a **hands-on learning journey** built with practice, discipline, and consistent version control.
+This repository is not a tutorial — it’s a real journey.
+
+Here I document my path to becoming a backend developer using Python:
+mistakes, improvements, practice, and discipline.
+
+If you’re learning backend and want to see how progress actually looks,
+feel free to explore, learn, and build alongside me.
+
 
 ---
 
