@@ -19,7 +19,7 @@ for key, values in datos.items():
     print(f"Dato: {key} | Valor: {values}")
 print()    
 
-#TU EJERCICIO ..
+
 estudiantes = {
     "Ana": 4.5,
     "Pedro": 1.0,

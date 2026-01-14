@@ -10,13 +10,13 @@ diccionario= {
 #En este caso muestra solo valores
 #word = diccionario.values() 
 
-#LLamamos la Clave Edad, y esta imprimira el valor.
+# Obtiene el valor de una clave específica
 #word = diccionario.get("Edad") 
 
 #Aqui es fundamental, Elimina todo lo del dato, EJ. Nombre
 #diccionario.pop("Nombre") 
 
-#Elimina todo
+#elimina una clave específica y su valor    
 #word = diccionario.clear() 
 
 #Navegamos d forma iterable, muestra todo clave y valor

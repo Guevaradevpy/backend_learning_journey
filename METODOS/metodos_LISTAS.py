@@ -24,4 +24,5 @@ lista.clear()
 #Ordena de Mayor a Menor
 lista.reverse() 
 
+#Modo de uso
 print(lista)
