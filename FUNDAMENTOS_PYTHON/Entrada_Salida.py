@@ -8,7 +8,7 @@ while True:
         break
 
     if nombre in JEFES:
-        print(f"Bienvenido, jefe {nombre.title()}. Acceso inmediato. A disfrutar de las putas")
+        print(f"Bienvenido, jefe {nombre.title()}. Acceso inmediato.")
         continue
 
     # Edad
@@ -36,9 +36,9 @@ while True:
         print("Identificación inválida. Debe tener entre 6 y 10 dígitos.")
         continue
 
-    print(f"Hola {nombre.title()}, puedes ingresar. Disfruta de las putas.")
+    print(f"Hola {nombre.title()}, puedes ingresar.")
 
     continuar = input("Deseas continuar? SI/NO: ").strip().upper()
     if continuar == "NO":
-        print("Muchas Gracias! Somos Burdel 74")
+        print("Muchas Gracias!")
         break
