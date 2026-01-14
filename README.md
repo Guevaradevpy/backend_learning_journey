@@ -1,12 +1,12 @@
 # Backend Learning Journey 🚀
 
-This repository is not a tutorial — it’s a real journey.
+🚀This repository is not a tutorial — it’s a real journey.
 
-Here I document my path to becoming a backend developer using Python:
-mistakes, improvements, practice, and discipline.
+🐍Here I document my path to becoming a backend developer using Python:
+  mistakes, improvements, practice, and discipline.
 
-If you’re learning backend and want to see how progress actually looks,
-feel free to explore, learn, and build alongside me.
+🤝If you’re learning backend and want to see how progress actually looks,
+  feel free to explore, learn, and build alongside me.
 
 
 ---
