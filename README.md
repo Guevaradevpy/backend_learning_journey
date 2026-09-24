@@ -1,37 +1,37 @@
 # Backend Learning Journey 🚀
 
-🚀This repository is not a tutorial — it’s a real journey.
+This repository is not a tutorial — it’s a real journey.
 
-🐍Here I document my path to becoming a backend developer using Python:
-  mistakes, improvements, practice, and discipline.
+Here I document my path to becoming a backend developer using Python:
+mistakes, improvements, practice, and discipline.
 
-🤝If you’re learning backend and want to see how progress actually looks,
-  feel free to explore, learn, and build alongside me.
+If you’re learning backend and want to see how progress actually looks,
+feel free to explore, learn, and build alongside me.
 
 
 ---
 
-## 📚 Repository Structure
+## Repository Structure
 
-### 🔹 FUNDAMENTOS_PYTHON
+### FUNDAMENTOS_PYTHON
 Python fundamentals, including:
 - Variables and data types | Operators | Control structures | Error handling | Functions.
 
-### 🔹 INTERACCIONES
+### INTERACCIONES
 Practice focused on logic and iteration:
 - Lists | Dictionaries | Sets | Practical exercises.
 
-### 🔹 METODOS
+### METODOS
 Common Python methods applied to:
 - Strings | Lists | Dictionaries.
 
-### 🔹 POO (Object-Oriented Programming)
+### POO (Object-Oriented Programming)
 Core OOP concepts such as:
 - Classes and objects | Abstraction | Abstract classes | Decorators.
 
 ---
 
-## 🧠 Project Goals
+## Project Goals
 
 - Build strong fundamentals in Python
 - Develop discipline
@@ -39,7 +39,7 @@ Core OOP concepts such as:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin: 10px;"/>
@@ -48,12 +48,12 @@ Core OOP concepts such as:
 
 ---
 
-## 📈 Project Status
+## Project Status
 Active development — structured practice and regular improvements.
 
 ---
 
-## 👤 Author
+## Author
 Esteban Guevara  
 Junior Backend Developer   
 Learning step by step, with consistency and focus.
